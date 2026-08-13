@@ -1894,7 +1894,7 @@
 		(layer "Edge.Cuts")
 		(uuid "bc1921dc-fd84-4293-9a7a-3de3927cdfb1")
 	)
-	(gr_text "PnP Power Module\nXT30 Female"
+	(gr_text "PnP Power Module\nXT30 Male"
 		(at 142.685 89.5 0)
 		(layer "B.SilkS")
 		(uuid "58b12b6b-f496-41c3-987e-feeefe981c3f")
